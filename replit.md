@@ -12,6 +12,7 @@ Preferred communication style: Simple, everyday language.
 - **Business Name**: "The Digital Handyman"
 - **Brand Identity**: Neighborhood-focused tech support with wrench icon
 - **Primary Contact**: hey@imhandy.tech
+- **Service Area**: Greater San Diego
 - **Target Audience**: Local families and individuals in the community
 - **Tagline**: "Your neighborhood's trusted Digital Handyman"
 

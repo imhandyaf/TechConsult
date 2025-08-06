@@ -69,8 +69,8 @@ export function ContactSection() {
       icon: MapPin,
       color: "text-accent",
       title: "Service Area",
-      content: "Local Community",
-      subtitle: "Your neighborhood",
+      content: "Greater San Diego",
+      subtitle: "Serving all San Diego communities",
     },
     {
       icon: Clock,
