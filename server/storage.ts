@@ -26,6 +26,8 @@ export class MemStorage implements IStorage {
     const entry: WaitlistEntry = { 
       ...insertEntry,
       phone: insertEntry.phone ?? null,
+      additionalDetails: insertEntry.additionalDetails ?? null,
+      services: insertEntry.services as string[],
       id,
       createdAt: new Date()
     };

@@ -55,7 +55,7 @@ export function ContactSection() {
       icon: Phone,
       color: "text-primary",
       title: "Phone",
-      content: "(555) 123-4567",
+      content: "(619) 356-1808",
       subtitle: "Call for urgent help",
     },
     {

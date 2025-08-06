@@ -82,7 +82,12 @@ export function WaitlistSection() {
   });
 
   const onSubmit = (data: WaitlistFormData) => {
-    mutation.mutate(data);
+    // Ensure services are properly set from selectedServices
+    const submitData = {
+      ...data,
+      services: selectedServices
+    };
+    mutation.mutate(submitData);
   };
 
   const nextStep = () => {
