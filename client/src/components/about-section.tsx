@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
-import { Award, Clock, Shield } from "lucide-react";
+import { Award, Clock, Shield, Wrench } from "lucide-react";
 
 export function AboutSection() {
   const features = [
@@ -76,11 +76,13 @@ export function AboutSection() {
             viewport={{ once: true }}
             className="relative"
           >
-            <img
-              src="https://images.unsplash.com/photo-1581092160562-40aa08e78837?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-              alt="Professional computer setup workspace"
-              className="rounded-2xl shadow-2xl w-full"
-            />
+            <div className="rounded-2xl shadow-2xl w-full h-80 bg-gradient-to-br from-primary/20 via-secondary/20 to-accent/20 flex items-center justify-center border border-slate-200 dark:border-slate-700">
+              <div className="text-center p-8">
+                <Wrench className="w-16 h-16 mx-auto mb-4 text-primary" />
+                <p className="text-slate-600 dark:text-slate-300 text-lg font-medium">Your Digital Handyman</p>
+                <p className="text-slate-500 dark:text-slate-400">Ready to help with all your tech needs</p>
+              </div>
+            </div>
 
             <motion.div
               initial={{ opacity: 0, scale: 0.8 }}
