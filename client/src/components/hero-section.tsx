@@ -46,16 +46,14 @@ export function HeroSection() {
           </motion.div>
 
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-            Premium Tech Solutions
+            Your Neighborhood Tech
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">
-              For Modern Businesses
+              Support Team
             </span>
           </h1>
 
           <p className="text-xl text-slate-200 mb-8 max-w-3xl mx-auto">
-            Expert technology consulting and support services. From smart home
-            setups to enterprise networking, we deliver cutting-edge solutions
-            with unmatched precision.
+            Friendly, reliable tech support for your home and family. From setting up your smart devices to fixing computer issues, we're here to help our community with all their technology needs.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">

@@ -5,27 +5,27 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Sarah Miller",
-    role: "Homeowner",
+    role: "Local Mom",
     initials: "SM",
     gradient: "from-primary to-secondary",
     content:
-      "TechFlow completely transformed our smart home setup. Professional, efficient, and incredibly knowledgeable. Worth every penny!",
+      "They helped set up our whole smart home system and were so patient explaining everything to us. Now our family feels like tech experts!",
   },
   {
     name: "James Chen",
-    role: "Small Business Owner",
+    role: "Retired Teacher",
     initials: "JC",
     gradient: "from-secondary to-accent",
     content:
-      "Emergency support when our office network failed. They had us back online in 2 hours. Incredible response time!",
+      "When my computer crashed, they came the same day and saved all my photos. Such caring, reliable service from people who really understand our community.",
   },
   {
     name: "Emily Roberts",
-    role: "Family of 5",
+    role: "Busy Parent",
     initials: "ER",
     gradient: "from-accent to-emerald-500",
     content:
-      "Their quarterly maintenance service keeps all our devices running perfectly. Proactive approach we love!",
+      "They visit every few months to keep our family's devices running smoothly. It's like having a tech-savvy relative who actually knows what they're doing!",
   },
 ];
 

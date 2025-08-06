@@ -1,8 +1,8 @@
-# TechFlow Consulting
+# TechFlow - Community Tech Support
 
 ## Overview
 
-TechFlow Consulting is a premium technology consulting service platform that operates as a fully booked business with a waitlist system. The application is a full-stack web platform built with React and Express, featuring a modern landing page design with multiple service categories, client testimonials, and comprehensive contact/waitlist management functionality. The platform is designed to capture and manage potential client information while showcasing the company's expertise in technology consulting services.
+TechFlow is a friendly neighborhood tech support service that helps families and individuals in the local community with their technology needs. The application is a full-stack web platform built with React and Express, featuring a warm, approachable design with 9 service categories, community testimonials, and waitlist functionality. The platform is designed to connect with local families and showcase the team's commitment to providing patient, reliable tech support to their neighbors.
 
 ## User Preferences
 

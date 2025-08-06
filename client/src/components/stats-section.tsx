@@ -33,27 +33,27 @@ export function StatsSection() {
     queryKey: ["/api/waitlist/count"],
   });
 
-  const waitlistCount = waitlistData?.count || 150;
+  const waitlistCount = (waitlistData as { count: number } | undefined)?.count || 150;
 
   const stats = [
     {
-      value: 500,
-      label: "Projects Completed",
+      value: 350,
+      label: "Families Helped",
       color: "text-primary",
     },
     {
       value: 98,
-      label: "Client Satisfaction %",
+      label: "Happy Neighbors %",
       color: "text-secondary",
     },
     {
-      value: 24,
+      value: 2,
       label: "Hour Response Time",
       color: "text-accent",
     },
     {
       value: waitlistCount,
-      label: "Current Waitlist",
+      label: "Families Waiting",
       color: "text-emerald-500",
     },
   ];

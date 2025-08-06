@@ -56,28 +56,28 @@ export function ContactSection() {
       color: "text-primary",
       title: "Phone",
       content: "(555) 123-4567",
-      subtitle: "24/7 Emergency Line",
+      subtitle: "Call for urgent help",
     },
     {
       icon: Mail,
       color: "text-secondary",
       title: "Email",
       content: "hello@techflow.consulting",
-      subtitle: "Response within 4 hours",
+      subtitle: "We respond quickly!",
     },
     {
       icon: MapPin,
       color: "text-accent",
       title: "Service Area",
-      content: "Greater Metro Area",
-      subtitle: "50-mile radius",
+      content: "Local Community",
+      subtitle: "Your neighborhood",
     },
     {
       icon: Clock,
       color: "text-emerald-500",
-      title: "Business Hours",
-      content: "Mon-Fri: 8AM-8PM\nSat-Sun: 10AM-6PM",
-      subtitle: "Emergency: 24/7",
+      title: "Hours",
+      content: "Mon-Fri: 8AM-8PM\nWeekends: 10AM-6PM",
+      subtitle: "Flexible scheduling available",
     },
   ];
 
@@ -93,7 +93,7 @@ export function ContactSection() {
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">Get In Touch</h2>
           <p className="text-xl text-slate-600 dark:text-slate-300">
-            Have questions or need emergency support? We're here to help.
+            Have tech questions or need help with your devices? Your neighborhood tech team is here to help!
           </p>
         </motion.div>
 

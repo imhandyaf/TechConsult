@@ -8,22 +8,22 @@ const faqs = [
   {
     question: "How long is the current waitlist?",
     answer:
-      "Our current waitlist is approximately 4-6 weeks depending on the service complexity. Priority clients and emergency services may be accommodated sooner.",
+      "Our current waitlist is about 3-4 weeks depending on what type of help you need. We prioritize urgent issues and try to fit in emergency calls when possible.",
   },
   {
-    question: "What areas do you service?",
+    question: "What areas do you serve?",
     answer:
-      "We currently service the greater metropolitan area within a 50-mile radius. Contact us to confirm service availability in your specific location.",
+      "We serve families throughout our local community and surrounding neighborhoods. Give us a call to see if we can help your family - we might be closer than you think!",
   },
   {
-    question: "Do you offer emergency services?",
+    question: "Do you help with emergencies?",
     answer:
-      "Yes! We offer 24/7 emergency call-out services for critical business and home technology failures. Emergency services have priority scheduling even during high-demand periods.",
+      "Absolutely! If your family's computer crashes or your internet goes down when you need it most, we'll do our best to help quickly. We understand how important technology is to daily life.",
   },
   {
-    question: "What is your pricing structure?",
+    question: "How much do your services cost?",
     answer:
-      "We offer both hourly rates and project-based pricing depending on the service complexity. All estimates are provided upfront with no hidden fees. Contact us for a detailed quote based on your specific needs.",
+      "We believe in fair, honest pricing with no surprises. We'll always give you an upfront estimate and explain exactly what we're doing. Many services are much more affordable than you might expect!",
   },
 ];
 

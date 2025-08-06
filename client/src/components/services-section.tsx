@@ -151,12 +151,11 @@ export function ServicesSection() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Comprehensive Tech Services
+            Tech Support for Your Home & Family
           </h2>
           <p className="text-xl text-slate-600 dark:text-slate-300 max-w-3xl mx-auto">
-            We provide end-to-end technology solutions across 9 specialized
-            categories, ensuring your digital infrastructure operates at peak
-            performance.
+            From computer setup to smart home installation, we offer friendly, reliable tech services 
+            across 9 categories to help families and individuals in our community.
           </p>
         </motion.div>
 

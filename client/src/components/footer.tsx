@@ -17,11 +17,11 @@ export function Footer() {
               <div className="w-8 h-8 bg-gradient-to-r from-primary to-secondary rounded-lg flex items-center justify-center">
                 <Zap className="w-4 h-4 text-white" />
               </div>
-              <span className="text-xl font-bold">TechFlow Consulting</span>
+              <span className="text-xl font-bold">TechFlow</span>
             </div>
             <p className="text-slate-300 mb-6 max-w-md">
-              Premium technology consulting and support services. We deliver
-              cutting-edge solutions with unmatched precision and customer care.
+              Your friendly neighborhood tech support team. We help families and 
+              individuals in our community with all their technology needs.
             </p>
             <div className="flex space-x-4">
               <Button
@@ -129,7 +129,7 @@ export function Footer() {
 
         <div className="border-t border-slate-700 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-slate-400">
-            © 2024 TechFlow Consulting. All rights reserved.
+            © 2024 TechFlow. All rights reserved.
           </p>
           <div className="flex items-center space-x-6 mt-4 md:mt-0">
             <span className="text-slate-400">Made with</span>

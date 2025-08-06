@@ -29,12 +29,12 @@ const waitlistFormSchema = insertWaitlistEntrySchema.extend({
 type WaitlistFormData = z.infer<typeof waitlistFormSchema>;
 
 const serviceOptions = [
-  "Computer & Laptop Services",
+  "Computer & Laptop Help",
   "Smart Home Setup",
-  "Home Wi-Fi & Networking",
-  "Emergency Support",
-  "Home Entertainment",
-  "Data Services",
+  "Wi-Fi & Network Help",
+  "Phone & Tablet Support",
+  "Home Entertainment Setup",
+  "Data Backup & Recovery",
 ];
 
 export function WaitlistSection() {
@@ -128,12 +128,11 @@ export function WaitlistSection() {
           </div>
 
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Join Our Exclusive Waitlist
+            Join Our Community Waitlist
           </h2>
           <p className="text-xl opacity-90 mb-8 max-w-2xl mx-auto">
-            We're currently at capacity serving our valued clients. Join our
-            priority waitlist to be the first to know when we have availability
-            for new premium tech consulting services.
+            We're currently helping so many families in our community that our schedule is full! 
+            Join our waitlist to be the first to know when we can help your family with tech support.
           </p>
         </motion.div>
 

@@ -36,7 +36,7 @@ export function Navbar() {
             <div className="w-8 h-8 bg-gradient-to-r from-primary to-secondary rounded-lg flex items-center justify-center">
               <Zap className="w-4 h-4 text-white" />
             </div>
-            <span className="text-xl font-bold">TechFlow Consulting</span>
+            <span className="text-xl font-bold">TechFlow</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">

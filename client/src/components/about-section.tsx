@@ -7,20 +7,20 @@ export function AboutSection() {
     {
       icon: Award,
       color: "bg-primary/20 text-primary",
-      title: "Certified Professionals",
-      description: "Industry-certified technicians with years of experience",
+      title: "Trusted Local Experts",
+      description: "Friendly, patient technicians who live and work in your community",
     },
     {
       icon: Clock,
       color: "bg-secondary/20 text-secondary",
-      title: "24/7 Emergency Support",
-      description: "Round-the-clock availability for urgent technical issues",
+      title: "Flexible Scheduling",
+      description: "Available evenings and weekends to fit your family's schedule",
     },
     {
       icon: Shield,
       color: "bg-accent/20 text-accent",
-      title: "100% Satisfaction Guarantee",
-      description: "We stand behind our work with comprehensive warranties",
+      title: "Fair, Transparent Pricing",
+      description: "Honest pricing with no hidden fees or surprise charges",
     },
   ];
 
@@ -35,13 +35,12 @@ export function AboutSection() {
             viewport={{ once: true }}
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-6">
-              Why Choose TechFlow Consulting?
+              Why Choose Our Community Tech Support?
             </h2>
             <p className="text-lg text-slate-600 dark:text-slate-300 mb-6">
-              We are a premium technology consulting firm specializing in
-              comprehensive tech solutions for homes and businesses. Our expert
-              team combines cutting-edge technical knowledge with exceptional
-              customer service.
+              We're your friendly neighborhood tech support team, dedicated to helping 
+              families and individuals in our community with all their technology needs. 
+              Our patient, knowledgeable team treats every home like our own.
             </p>
 
             <div className="space-y-4">
