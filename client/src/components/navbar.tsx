@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { useTheme } from "@/components/theme-provider";
-import { Moon, Sun, Zap, Menu } from "lucide-react";
+import { Moon, Sun, Wrench, Menu } from "lucide-react";
 
 export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
@@ -34,9 +34,9 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-to-r from-primary to-secondary rounded-lg flex items-center justify-center">
-              <Zap className="w-4 h-4 text-white" />
+              <Wrench className="w-4 h-4 text-white" />
             </div>
-            <span className="text-xl font-bold">TechFlow</span>
+            <span className="text-xl font-bold">The Digital Handyman</span>
           </div>
 
           <div className="hidden md:flex items-center space-x-8">

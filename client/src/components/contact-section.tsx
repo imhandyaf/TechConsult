@@ -62,7 +62,7 @@ export function ContactSection() {
       icon: Mail,
       color: "text-secondary",
       title: "Email",
-      content: "hello@techflow.consulting",
+      content: "help@digitalhandyman.local",
       subtitle: "We respond quickly!",
     },
     {

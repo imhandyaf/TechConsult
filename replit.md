@@ -1,8 +1,8 @@
-# TechFlow - Community Tech Support
+# The Digital Handyman - Community Tech Support
 
 ## Overview
 
-TechFlow is a friendly neighborhood tech support service that helps families and individuals in the local community with their technology needs. The application is a full-stack web platform built with React and Express, featuring a warm, approachable design with 9 service categories, community testimonials, and waitlist functionality. The platform is designed to connect with local families and showcase the team's commitment to providing patient, reliable tech support to their neighbors.
+The Digital Handyman is a friendly neighborhood tech support service that helps families and individuals in the local community with their technology needs. The application is a full-stack web platform built with React and Express, featuring a warm, approachable design with 9 service categories, community testimonials, and waitlist functionality. The platform is designed to connect with local families and showcase the team's commitment to providing patient, reliable tech support to their neighbors.
 
 ## User Preferences
 
