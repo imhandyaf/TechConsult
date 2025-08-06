@@ -62,7 +62,7 @@ export function ContactSection() {
       icon: Mail,
       color: "text-secondary",
       title: "Email",
-      content: "help@digitalhandyman.local",
+      content: "hey@imhandy.tech",
       subtitle: "We respond quickly!",
     },
     {

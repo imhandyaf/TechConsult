@@ -8,6 +8,13 @@ The Digital Handyman is a friendly neighborhood tech support service that helps 
 
 Preferred communication style: Simple, everyday language.
 
+## Branding and Contact
+- **Business Name**: "The Digital Handyman"
+- **Brand Identity**: Neighborhood-focused tech support with wrench icon
+- **Primary Contact**: hey@imhandy.tech
+- **Target Audience**: Local families and individuals in the community
+- **Tagline**: "Your neighborhood's trusted Digital Handyman"
+
 ## System Architecture
 
 ### Frontend Architecture
